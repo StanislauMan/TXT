@@ -1,0 +1,5 @@
+First_name - Stanislau
+Last_name - Mandryk
+Age - 26
+Amount_of_pets - 3
+Salary - infinity
