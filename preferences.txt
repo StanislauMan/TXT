@@ -1,0 +1,6 @@
+Favorite:
+ movie - Dune
+ tv-show - Vikin,
+ dish - Paste,
+ time of year - winter,
+ country - Ukraine
